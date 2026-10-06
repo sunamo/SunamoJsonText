@@ -1,3 +1,0 @@
-je tu proto abych mohl používat formátování json bez nugetové balíčku
-ale stejně musím importovat s.t.j i do entry assembly
-zde je to lepší dělat přes nuget protože přes dll bych stejně musel dodat i System.Bcl.AsyncInterfaces a System.Memory
